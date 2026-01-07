@@ -41,3 +41,9 @@ Open `login.html` in a browser (or use Live Server).
 
 - `node_modules` is ignored using `.gitignore`
 - Images are stored directly in the frontend folder
+
+  ## Author
+
+Ryan Michael (1AT24CS176)
+S Nnani Swarna Babu (1AT24CS178)
+
