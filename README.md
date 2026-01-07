@@ -10,7 +10,7 @@ UrbanThread is a mini full-stack web project with user login and a product dashb
 - Git & GitHub  
 ---
 
-## Project Structure
+Project Structure
 urbanthread-project/
 ├── frontend/
 ├── backend/
@@ -42,7 +42,7 @@ Open `login.html` in a browser (or use Live Server).
 - `node_modules` is ignored using `.gitignore`
 - Images are stored directly in the frontend folder
 
-  ## Author
+  ## Authors
 
 Ryan Michael (1AT24CS176)
 S Nnani Swarna Babu (1AT24CS178)
